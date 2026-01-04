@@ -1,0 +1,8 @@
+C:\Users\Syrian Technology\Desktop\مشروع الخوارزميات\مشروع الخوارزميات\obj\Debug\مشروع الخوارزميات.csproj.AssemblyReference.cache
+C:\Users\Syrian Technology\Desktop\مشروع الخوارزميات\مشروع الخوارزميات\obj\Debug\مشروع الخوارزميات.csproj.CoreCompileInputs.cache
+C:\Users\Syrian Technology\Desktop\مشروع الخوارزميات\مشروع الخوارزميات\bin\Debug\مشروع الخوارزميات.exe.config
+C:\Users\Syrian Technology\Desktop\مشروع الخوارزميات\مشروع الخوارزميات\bin\Debug\مشروع الخوارزميات.exe
+C:\Users\Syrian Technology\Desktop\مشروع الخوارزميات\مشروع الخوارزميات\bin\Debug\مشروع الخوارزميات.pdb
+C:\Users\Syrian Technology\Desktop\مشروع الخوارزميات\مشروع الخوارزميات\obj\Debug\مشروع الخوارزميات.exe
+C:\Users\Syrian Technology\Desktop\مشروع الخوارزميات\مشروع الخوارزميات\obj\Debug\مشروع الخوارزميات.pdb
+C:\Users\Syrian Technology\Desktop\مشروع الخوارزميات\مشروع الخوارزميات\obj\Debug\مشروع الخوارزميات.exe.config
